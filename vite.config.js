@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
-  base: '/vue-todo-app_composition-api/',
+  base: '/vue-r',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
